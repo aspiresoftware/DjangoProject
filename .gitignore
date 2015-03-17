@@ -1,0 +1,15 @@
+###########
+# Globals
+###########
+
+# Temporary files
+/DjangoProject.sublime-project
+/DjangoProject.sublime-workspace
+
+# Build artifacts
+
+
+#####################
+# Platform-specific
+#####################
+
