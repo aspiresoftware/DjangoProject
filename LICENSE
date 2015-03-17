@@ -1,8 +1,4 @@
-eBackpack for Parents
-Copyright 2014 eBackpack, Inc.
+Django project
+Copyright 2015 Aspire software.
 
 TODO: Copyright notices for all included sources.
-* Angular (angular, material layout CSS)
-* Angular UI (router)
-* Ionic Framework (normalize CSS)
-* Lodash (utilities)
