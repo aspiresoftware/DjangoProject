@@ -3,7 +3,7 @@ DjangoProject structure
 
 Project structure using Django, sqllite3 :
 
-Prerequisutes : python2.7+,Django1.7
+prerequisite : python2.7+,Django1.7
 
 Steps :
 
