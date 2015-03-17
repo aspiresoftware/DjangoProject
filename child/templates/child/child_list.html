@@ -1,0 +1,12 @@
+<h1>Childs</h1>
+<ul>
+    {% for child in object_list %}
+    <li>{{ child.first_name }} :  
+    <a href="{% url "child_update" child.id %}">{{ child.last_name }}</a>
+    {{child.mobile}}
+    <a href="{% url "child_delete" child.id %}">delete</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="{% url "child_create" %}">New</a>
