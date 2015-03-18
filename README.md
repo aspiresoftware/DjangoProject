@@ -13,4 +13,6 @@ Steps :
 
 (3) python manage.py runserver
 
-(4) Enjoy the app from browser : http://127.0.0.1:8000/
+(4) python manage.py migrate
+
+(5) Enjoy the app from browser : http://127.0.0.1:8000/
